@@ -16,6 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\CarAPIFinal\CarAPIFinal.csproj" />
     <ProjectReference Include="..\CarsLibary\CarsLibary.csproj" />
   </ItemGroup>
 
