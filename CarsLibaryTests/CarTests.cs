@@ -56,7 +56,7 @@ namespace CarsLibary.Tests
         }
 
 
-        //LicensePlate
+        // LicensePlate
         [TestMethod]
         public void LicensePlateProperty_SettingInvalidLength_ThrowsArgumentException()
         {
